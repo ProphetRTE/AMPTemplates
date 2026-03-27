@@ -1,0 +1,7 @@
+[
+    {
+        "ConfigFile": "Config/WindowServer/DedicatedServerSettings.ini",
+        "ConfigType": "ini",
+        "AutoMap": true
+    }
+]
