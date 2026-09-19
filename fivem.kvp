@@ -1,4 +1,4 @@
-Meta.DisplayName=FiveM - Grand Theft Auto V Server - Prophecy
+Meta.DisplayName=AE FiveM - Grand Theft Auto V Server
 Meta.Description=FiveM Multiplayer Mod for Grand Theft Auto V
 Meta.OS=Windows, Linux
 Meta.AarchSupport=Unknown
@@ -21,7 +21,7 @@ Meta.Prerequsites=[]
 Meta.ExtraContainerPackages=[]
 Meta.ConfigReleaseState=NotSpecified
 Meta.NoCommercialUsage=True
-Meta.AppConfigId=aa5de5cd-d1b4-4432-906f-07c0360280de
+Meta.AppConfigId=c0ca355e-5c00-4e1c-aa32-efc2d5a6d57c
 Meta.ConfigVersion=5
 Meta.ReleaseNotes=
 Meta.BreakingReleaseNotes=
